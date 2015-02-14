@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-hejsan
-=======
-hekki heje
->>>>>>> testing
+detta är kod rad 1.
+kod 2.
